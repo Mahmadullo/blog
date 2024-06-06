@@ -1,4 +1,3 @@
 <?php
 
-
-echo 'test';
+include_once ("includes/autoload.php");
